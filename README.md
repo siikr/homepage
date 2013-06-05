@@ -1,4 +1,4 @@
 homepage
 ========
 
-Sirui Yang's home page at Github.com
+Placeholder project.
